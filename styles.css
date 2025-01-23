@@ -401,6 +401,9 @@ body {
         border-radius: 10px 10px 0 0;
         box-shadow: 3px 3px 15px #1113;
     }
+    .pricing-card__signup:hover {
+        transform: scale(1.04);
+    }
 }
 
 /*Mobile*/
